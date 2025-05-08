@@ -7,5 +7,5 @@
 ## diante disso tudo, você tera isso, ninguém é perfeito, mesmo que com arrepedimentos e dificuldades, seguir nossos próprios termos por nós mesmos é mais valioso do que a conformidade 
 ## em cima da frase do site, há a música de Frank Sinatra, "My Way". Nesta música, a frase mais impactante do cantor é "I did my way". Está frase tem o significado forte de fazer aquilo que achamos bom para nossas vidas a nossa escolha, e que para isso tudo, o mais importante para decidir nossas próprias escolhas é ser fiel a nos mesmos até o fim.
 ### lembre-se, tenha coragem de seguir suas escolhas, tenha fé em si mesmo, ame a si mesmo, tudo isto molda seu caminho, faça do seu jeito.
-
+# link do site: https://n0b0dy12-xd.github.io/That-s-my-life/
 # Feito por: UserNotFound
